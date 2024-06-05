@@ -8,11 +8,17 @@ This project involves forecasting grocery sales for the Corporación Favorita, a
 The dataset used in this project is sourced from the Kaggle competition "Corporación Favorita Grocery Sales Forecasting". It contains transactional data along with additional datasets providing information about stores, items, promotions, holidays, and more. The key datasets used include:
 
 train.csv: Historical daily sales data
+
 test.csv: Data for which sales predictions are required
+
 items.csv: Metadata for items
+
 stores.csv: Metadata for stores
+
 oil.csv: Daily oil price data
+
 holidays_events.csv: Information on holidays and events
+
 transactions.csv: Daily transactions for each store
 
 ## Instructions

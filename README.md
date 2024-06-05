@@ -21,6 +21,12 @@ transactions.csv: Daily transactions for each store
 Due to memory resource limitations, this project is designed to be executed in the Kaggle notebook environment. Follow these steps to run the notebooks:
 Run favorita-grocery-store-case-study.ipynb notebook to execute both training and inference workflows.
 
+### Results
+
+NWRMSLE OF Training dataset = 0.78
+NWRMSLE OF Val dataset 1 = 0.79
+NWRMSLE OF Val dataset 2 = 0.78
+
 ## Conclusion
 This project aims to provide an end-to-end solution for grocery sales forecasting using the Favorita dataset. By following the structured approach outlined in the notebooks, you will be able to preprocess the data, engineer features, train models, and generate sales forecasts for submission.
 

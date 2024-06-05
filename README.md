@@ -21,7 +21,7 @@ transactions.csv: Daily transactions for each store
 Due to memory resource limitations, this project is designed to be executed in the Kaggle notebook environment. Follow these steps to run the notebooks:
 Run favorita-grocery-store-case-study.ipynb notebook to execute both training and inference workflows.
 
-### Results
+## Results
 
 NWRMSLE OF Training dataset = 0.78
 NWRMSLE OF Val dataset 1 = 0.79
